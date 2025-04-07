@@ -1,5 +1,5 @@
-# 🚀 Automated Medusa Deployment on AWS ECS Fargate Spot  
-### Using Terraform, Docker (ECR), and GitHub Actions CI/CD
+# IaC-Terraform-Aws-ECS-Fargate-for-Medusa-open-source-headless-commerce-platform-backend
+
 
 This project provides a complete automation pipeline for deploying the **Medusa e-commerce backend** on AWS using cutting-edge DevOps practices. It leverages **Terraform** for infrastructure provisioning, **Docker** for containerization, **Amazon ECS Fargate (Spot)** for scalable deployments, and **GitHub Actions** for continuous integration and delivery.
 
